@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<wdmsim version="0.1">
+    <rwa module="HybridRWA"/>
+
+    <trace file="trace.tr"/>
+
+    <traffic calls="10000" load="100" max-rate="10000">
+        <!-- Premium Service: High-priority, low-latency -->
+        <calls holding-time="1" rate="15000" cos="1" weight="10"/>
+
+        <!-- Standard Service: Medium-priority, moderate latency -->
+        <calls holding-time="3" rate="10000" cos="2" weight="5" />
+
+        <!-- Best-Effort Service: Low-priority, flexible latency -->
+        <calls holding-time="5" rate="5000" cos="0" weight="1"/>
+    </traffic>
+
+    <virtual-topology name="Eurocore">
+    </virtual-topology>
+
+    <physical-topology name="Eurocore" wavelengths="16">
+        <nodes>
+            <node id="0" grooming-in-ports="32" grooming-out-ports="32" wlconverters="0" wlconversion-range="0"/>
+            <node id="1" grooming-in-ports="32" grooming-out-ports="32" wlconverters="0" wlconversion-range="0"/>
+            <node id="2" grooming-in-ports="32" grooming-out-ports="32" wlconverters="0" wlconversion-range="0"/>
+            <node id="3" grooming-in-ports="32" grooming-out-ports="32" wlconverters="0" wlconversion-range="0"/>
+            <node id="4" grooming-in-ports="32" grooming-out-ports="32" wlconverters="0" wlconversion-range="0"/>
+            <node id="5" grooming-in-ports="32" grooming-out-ports="32" wlconverters="0" wlconversion-range="0"/>
+            <node id="6" grooming-in-ports="32" grooming-out-ports="32" wlconverters="0" wlconversion-range="0"/>
+            <node id="7" grooming-in-ports="32" grooming-out-ports="32" wlconverters="0" wlconversion-range="0"/>
+            <node id="8" grooming-in-ports="32" grooming-out-ports="32" wlconverters="0" wlconversion-range="0"/>
+            <node id="9" grooming-in-ports="32" grooming-out-ports="32" wlconverters="0" wlconversion-range="0"/>
+            <node id="10" grooming-in-ports="32" grooming-out-ports="32" wlconverters="0" wlconversion-range="0"/>
+        </nodes>
+        <links>
+            <link id="0" source="0" destination="1" delay="5" bandwidth="10000" weight="600"/>
+            <link id="1" source="0" destination="2" delay="6" bandwidth="10000" weight="600"/>
+            <link id="2" source="0" destination="5" delay="4" bandwidth="10000" weight="600"/>
+            <link id="3" source="0" destination="7" delay="7" bandwidth="10000" weight="600"/>
+            <link id="4" source="1" destination="2" delay="5" bandwidth="10000" weight="600"/>
+            <link id="5" source="1" destination="3" delay="3" bandwidth="10000" weight="600"/>
+            <link id="6" source="1" destination="8" delay="6" bandwidth="10000" weight="600"/>
+            <link id="7" source="2" destination="7" delay="4" bandwidth="10000" weight="600"/>
+            <link id="8" source="2" destination="8" delay="3" bandwidth="10000" weight="600"/>
+            <link id="9" source="3" destination="4" delay="5" bandwidth="10000" weight="600"/>
+            <link id="10" source="3" destination="8" delay="6" bandwidth="10000" weight="600"/>
+            <link id="11" source="4" destination="5" delay="4" bandwidth="10000" weight="600"/>
+            <link id="12" source="4" destination="10" delay="3" bandwidth="10000" weight="600"/>
+            <link id="13" source="5" destination="6" delay="7" bandwidth="10000" weight="600"/>
+            <link id="14" source="6" destination="9" delay="5" bandwidth="10000" weight="600"/>
+            <link id="15" source="6" destination="10" delay="4" bandwidth="10000" weight="600"/>
+            <link id="16" source="7" destination="8" delay="3" bandwidth="10000" weight="600"/>
+            <link id="17" source="7" destination="9" delay="6" bandwidth="10000" weight="600"/>
+            <link id="18" source="8" destination="9" delay="4" bandwidth="10000" weight="600"/>
+            <link id="19" source="8" destination="10" delay="6" bandwidth="10000" weight="600"/>
+            <link id="20" source="9" destination="10" delay="5" bandwidth="10000" weight="600"/>
+        </links>
+    </physical-topology>
+</wdmsim>

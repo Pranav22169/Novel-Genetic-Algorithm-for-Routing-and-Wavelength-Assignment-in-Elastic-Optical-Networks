@@ -1,0 +1,19 @@
+apply plugin: 'java'
+
+sourceSets {
+   main {
+      java {
+         srcDir 'src'
+      }
+   }
+}
+
+jar {
+   archiveBaseName.set('t0') // Set the JAR name to 't0'
+   manifest {
+      attributes(
+         "Main-Class": "wdmsim.Main",
+         "Class-Path": configurations.runtimeClasspath.collect { it.absolutePath }.join(" ")
+      )
+   }
+}

@@ -1,0 +1,1215 @@
+*****
+Load:300.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 1154 (11.54%)
+Total Blocked: 7733 (77.33%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 100965000 (78.77%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 67.25%, Bandwidth Blocking Ratio = 67.25%
+Class 1: Blocking Probability = 82.23%, Bandwidth Blocking Ratio = 82.23%
+Class 2: Blocking Probability = 69.50%, Bandwidth Blocking Ratio = 69.50%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 33.33%, Bandwidth Blocking Ratio = 37.16%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 22.22%, Bandwidth Blocking Ratio = 25.60%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 49.49%, Bandwidth Blocking Ratio = 54.28%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 86.59%, Bandwidth Blocking Ratio = 86.89%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 42.86%, Bandwidth Blocking Ratio = 47.39%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 48.91%, Bandwidth Blocking Ratio = 54.58%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 30.59%, Bandwidth Blocking Ratio = 35.14%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 61.29%, Bandwidth Blocking Ratio = 66.12%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 60.00%, Bandwidth Blocking Ratio = 63.29%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 63.74%, Bandwidth Blocking Ratio = 67.83%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 25.51%, Bandwidth Blocking Ratio = 29.41%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 26.42%, Bandwidth Blocking Ratio = 30.55%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 73.63%, Bandwidth Blocking Ratio = 75.64%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 77.55%, Bandwidth Blocking Ratio = 80.31%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 94.06%, Bandwidth Blocking Ratio = 95.02%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 65.75%, Bandwidth Blocking Ratio = 67.93%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 28.13%, Bandwidth Blocking Ratio = 31.62%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 41.46%, Bandwidth Blocking Ratio = 46.76%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 35.48%, Bandwidth Blocking Ratio = 40.24%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 12.66%, Bandwidth Blocking Ratio = 14.71%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 12.50%, Bandwidth Blocking Ratio = 14.60%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 38.82%, Bandwidth Blocking Ratio = 43.87%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 37.18%, Bandwidth Blocking Ratio = 40.74%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 24.00%, Bandwidth Blocking Ratio = 27.80%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 68.82%, Bandwidth Blocking Ratio = 72.51%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 87.00%, Bandwidth Blocking Ratio = 87.55%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 28.42%, Bandwidth Blocking Ratio = 31.64%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 49.38%, Bandwidth Blocking Ratio = 54.50%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 70.43%, Bandwidth Blocking Ratio = 72.97%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 7.41%, Bandwidth Blocking Ratio = 8.74%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 53.01%, Bandwidth Blocking Ratio = 57.55%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 66.33%, Bandwidth Blocking Ratio = 70.88%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 20.00%, Bandwidth Blocking Ratio = 23.55%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 26.60%, Bandwidth Blocking Ratio = 31.12%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 60.44%, Bandwidth Blocking Ratio = 64.29%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 46.74%, Bandwidth Blocking Ratio = 53.68%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 22.99%, Bandwidth Blocking Ratio = 26.67%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 22.89%, Bandwidth Blocking Ratio = 26.76%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 12.22%, Bandwidth Blocking Ratio = 14.60%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 18.37%, Bandwidth Blocking Ratio = 21.69%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 36.96%, Bandwidth Blocking Ratio = 39.91%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 31.46%, Bandwidth Blocking Ratio = 36.89%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 29.21%, Bandwidth Blocking Ratio = 34.70%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 25.30%, Bandwidth Blocking Ratio = 27.27%
+Jain's Fairness Index (JFI): 0.7929
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.4171
+Class 1 JFI: 0.8562
+Class 2 JFI: 0.4800
+
+*****
+Load:350.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 1164 (11.64%)
+Total Blocked: 7713 (77.13%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 100730000 (78.59%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 66.77%, Bandwidth Blocking Ratio = 66.77%
+Class 1: Blocking Probability = 82.07%, Bandwidth Blocking Ratio = 82.07%
+Class 2: Blocking Probability = 69.27%, Bandwidth Blocking Ratio = 69.27%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 34.57%, Bandwidth Blocking Ratio = 38.53%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 22.22%, Bandwidth Blocking Ratio = 25.12%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 53.54%, Bandwidth Blocking Ratio = 57.99%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 86.59%, Bandwidth Blocking Ratio = 87.38%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 36.26%, Bandwidth Blocking Ratio = 39.57%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 45.65%, Bandwidth Blocking Ratio = 51.25%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 30.59%, Bandwidth Blocking Ratio = 35.14%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 47.31%, Bandwidth Blocking Ratio = 53.47%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 53.68%, Bandwidth Blocking Ratio = 58.23%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 73.63%, Bandwidth Blocking Ratio = 76.09%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 24.49%, Bandwidth Blocking Ratio = 28.24%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 27.36%, Bandwidth Blocking Ratio = 31.64%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 59.34%, Bandwidth Blocking Ratio = 62.82%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 73.47%, Bandwidth Blocking Ratio = 77.61%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 90.10%, Bandwidth Blocking Ratio = 91.95%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 60.27%, Bandwidth Blocking Ratio = 63.04%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 32.29%, Bandwidth Blocking Ratio = 34.62%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 47.56%, Bandwidth Blocking Ratio = 52.78%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 41.94%, Bandwidth Blocking Ratio = 46.34%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 13.92%, Bandwidth Blocking Ratio = 16.18%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 13.64%, Bandwidth Blocking Ratio = 15.93%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 37.65%, Bandwidth Blocking Ratio = 41.98%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 34.62%, Bandwidth Blocking Ratio = 37.04%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 27.00%, Bandwidth Blocking Ratio = 31.27%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 65.59%, Bandwidth Blocking Ratio = 69.32%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 86.00%, Bandwidth Blocking Ratio = 87.16%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 28.42%, Bandwidth Blocking Ratio = 31.64%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 44.44%, Bandwidth Blocking Ratio = 50.00%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 64.35%, Bandwidth Blocking Ratio = 67.23%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 8.64%, Bandwidth Blocking Ratio = 10.19%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 49.40%, Bandwidth Blocking Ratio = 54.25%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 81.63%, Bandwidth Blocking Ratio = 84.29%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 20.00%, Bandwidth Blocking Ratio = 23.55%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 31.91%, Bandwidth Blocking Ratio = 36.93%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 59.34%, Bandwidth Blocking Ratio = 62.18%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 48.91%, Bandwidth Blocking Ratio = 54.55%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 25.29%, Bandwidth Blocking Ratio = 29.33%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 31.33%, Bandwidth Blocking Ratio = 35.21%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 12.22%, Bandwidth Blocking Ratio = 14.60%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 28.57%, Bandwidth Blocking Ratio = 32.53%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 31.52%, Bandwidth Blocking Ratio = 36.32%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 29.21%, Bandwidth Blocking Ratio = 33.33%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 21.35%, Bandwidth Blocking Ratio = 25.11%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 16.87%, Bandwidth Blocking Ratio = 19.62%
+Jain's Fairness Index (JFI): 0.7940
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.4197
+Class 1 JFI: 0.8569
+Class 2 JFI: 0.4810
+
+*****
+Load:400.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 1133 (11.33%)
+Total Blocked: 7786 (77.86%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 101690000 (79.34%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 66.14%, Bandwidth Blocking Ratio = 66.14%
+Class 1: Blocking Probability = 82.74%, Bandwidth Blocking Ratio = 82.74%
+Class 2: Blocking Probability = 70.40%, Bandwidth Blocking Ratio = 70.40%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 40.74%, Bandwidth Blocking Ratio = 45.41%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 23.46%, Bandwidth Blocking Ratio = 26.57%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 51.52%, Bandwidth Blocking Ratio = 56.13%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 89.02%, Bandwidth Blocking Ratio = 89.32%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 30.77%, Bandwidth Blocking Ratio = 34.35%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 39.13%, Bandwidth Blocking Ratio = 45.00%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 35.29%, Bandwidth Blocking Ratio = 40.54%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 54.84%, Bandwidth Blocking Ratio = 59.59%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 54.74%, Bandwidth Blocking Ratio = 59.49%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 74.73%, Bandwidth Blocking Ratio = 77.39%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 25.51%, Bandwidth Blocking Ratio = 29.41%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 26.42%, Bandwidth Blocking Ratio = 30.55%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 73.63%, Bandwidth Blocking Ratio = 76.50%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 76.53%, Bandwidth Blocking Ratio = 80.31%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 96.04%, Bandwidth Blocking Ratio = 96.93%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 60.27%, Bandwidth Blocking Ratio = 63.59%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 23.96%, Bandwidth Blocking Ratio = 27.78%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 50.00%, Bandwidth Blocking Ratio = 55.09%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 54.84%, Bandwidth Blocking Ratio = 58.54%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 13.92%, Bandwidth Blocking Ratio = 16.18%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 10.23%, Bandwidth Blocking Ratio = 11.95%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 45.88%, Bandwidth Blocking Ratio = 49.06%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 41.03%, Bandwidth Blocking Ratio = 43.92%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 29.00%, Bandwidth Blocking Ratio = 33.59%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 48.39%, Bandwidth Blocking Ratio = 52.99%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 84.00%, Bandwidth Blocking Ratio = 85.60%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 29.47%, Bandwidth Blocking Ratio = 32.81%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 40.74%, Bandwidth Blocking Ratio = 47.00%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 75.65%, Bandwidth Blocking Ratio = 78.72%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 14.81%, Bandwidth Blocking Ratio = 17.48%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 60.24%, Bandwidth Blocking Ratio = 64.15%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 80.61%, Bandwidth Blocking Ratio = 84.29%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 21.05%, Bandwidth Blocking Ratio = 24.79%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 32.98%, Bandwidth Blocking Ratio = 37.76%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 60.44%, Bandwidth Blocking Ratio = 63.87%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 46.74%, Bandwidth Blocking Ratio = 52.81%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 27.59%, Bandwidth Blocking Ratio = 32.00%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 25.30%, Bandwidth Blocking Ratio = 29.58%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 14.44%, Bandwidth Blocking Ratio = 16.81%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 29.59%, Bandwidth Blocking Ratio = 33.33%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 30.43%, Bandwidth Blocking Ratio = 33.63%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 25.84%, Bandwidth Blocking Ratio = 29.78%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 32.58%, Bandwidth Blocking Ratio = 37.44%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 32.53%, Bandwidth Blocking Ratio = 34.45%
+Jain's Fairness Index (JFI): 0.8062
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.3975
+Class 1 JFI: 0.8657
+Class 2 JFI: 0.5021
+
+*****
+Load:450.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 1099 (10.99%)
+Total Blocked: 7840 (78.40%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 102305000 (79.82%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 66.93%, Bandwidth Blocking Ratio = 66.93%
+Class 1: Blocking Probability = 83.06%, Bandwidth Blocking Ratio = 83.06%
+Class 2: Blocking Probability = 71.33%, Bandwidth Blocking Ratio = 71.33%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 34.57%, Bandwidth Blocking Ratio = 38.53%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 29.63%, Bandwidth Blocking Ratio = 31.88%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 52.53%, Bandwidth Blocking Ratio = 57.25%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 86.59%, Bandwidth Blocking Ratio = 86.89%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 29.67%, Bandwidth Blocking Ratio = 33.48%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 45.65%, Bandwidth Blocking Ratio = 51.25%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 31.76%, Bandwidth Blocking Ratio = 36.49%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 55.91%, Bandwidth Blocking Ratio = 61.22%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 65.26%, Bandwidth Blocking Ratio = 67.93%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 82.42%, Bandwidth Blocking Ratio = 83.48%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 26.53%, Bandwidth Blocking Ratio = 30.59%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 30.19%, Bandwidth Blocking Ratio = 34.55%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 71.43%, Bandwidth Blocking Ratio = 73.93%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 72.45%, Bandwidth Blocking Ratio = 76.45%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 95.05%, Bandwidth Blocking Ratio = 95.79%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 61.64%, Bandwidth Blocking Ratio = 63.59%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 30.21%, Bandwidth Blocking Ratio = 33.76%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 51.22%, Bandwidth Blocking Ratio = 57.41%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 55.91%, Bandwidth Blocking Ratio = 59.35%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 13.92%, Bandwidth Blocking Ratio = 16.18%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 9.09%, Bandwidth Blocking Ratio = 10.62%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 65.88%, Bandwidth Blocking Ratio = 71.23%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 50.00%, Bandwidth Blocking Ratio = 54.50%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 28.00%, Bandwidth Blocking Ratio = 32.43%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 55.91%, Bandwidth Blocking Ratio = 60.96%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 88.00%, Bandwidth Blocking Ratio = 88.33%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 29.47%, Bandwidth Blocking Ratio = 32.81%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 41.98%, Bandwidth Blocking Ratio = 48.00%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 65.22%, Bandwidth Blocking Ratio = 68.24%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 8.64%, Bandwidth Blocking Ratio = 10.19%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 56.63%, Bandwidth Blocking Ratio = 62.26%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 82.65%, Bandwidth Blocking Ratio = 84.29%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 22.11%, Bandwidth Blocking Ratio = 26.03%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 26.60%, Bandwidth Blocking Ratio = 30.71%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 71.43%, Bandwidth Blocking Ratio = 74.37%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 70.65%, Bandwidth Blocking Ratio = 76.19%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 24.14%, Bandwidth Blocking Ratio = 28.00%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 19.28%, Bandwidth Blocking Ratio = 22.54%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 16.67%, Bandwidth Blocking Ratio = 19.47%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 23.47%, Bandwidth Blocking Ratio = 27.31%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 29.35%, Bandwidth Blocking Ratio = 34.53%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 26.97%, Bandwidth Blocking Ratio = 31.56%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 28.09%, Bandwidth Blocking Ratio = 32.42%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 33.73%, Bandwidth Blocking Ratio = 36.36%
+Jain's Fairness Index (JFI): 0.8072
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.3930
+Class 1 JFI: 0.8633
+Class 2 JFI: 0.5247
+
+*****
+Load:500.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 1064 (10.64%)
+Total Blocked: 7935 (79.35%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 103530000 (80.78%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 67.73%, Bandwidth Blocking Ratio = 67.73%
+Class 1: Blocking Probability = 84.02%, Bandwidth Blocking Ratio = 84.02%
+Class 2: Blocking Probability = 72.30%, Bandwidth Blocking Ratio = 72.30%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 35.80%, Bandwidth Blocking Ratio = 39.91%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 24.69%, Bandwidth Blocking Ratio = 27.54%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 57.58%, Bandwidth Blocking Ratio = 61.71%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 89.02%, Bandwidth Blocking Ratio = 89.32%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 35.16%, Bandwidth Blocking Ratio = 39.13%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 58.70%, Bandwidth Blocking Ratio = 64.17%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 38.82%, Bandwidth Blocking Ratio = 44.14%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 65.59%, Bandwidth Blocking Ratio = 70.61%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 49.47%, Bandwidth Blocking Ratio = 54.01%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 85.71%, Bandwidth Blocking Ratio = 86.96%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 24.49%, Bandwidth Blocking Ratio = 28.24%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 31.13%, Bandwidth Blocking Ratio = 35.27%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 74.73%, Bandwidth Blocking Ratio = 76.50%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 82.65%, Bandwidth Blocking Ratio = 85.71%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 97.03%, Bandwidth Blocking Ratio = 97.70%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 72.60%, Bandwidth Blocking Ratio = 75.00%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 31.25%, Bandwidth Blocking Ratio = 34.62%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 45.12%, Bandwidth Blocking Ratio = 50.46%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 60.22%, Bandwidth Blocking Ratio = 64.23%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 12.66%, Bandwidth Blocking Ratio = 14.71%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 12.50%, Bandwidth Blocking Ratio = 14.60%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 50.59%, Bandwidth Blocking Ratio = 55.66%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 47.44%, Bandwidth Blocking Ratio = 51.32%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 24.00%, Bandwidth Blocking Ratio = 27.80%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 68.82%, Bandwidth Blocking Ratio = 72.91%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 89.00%, Bandwidth Blocking Ratio = 89.88%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 29.47%, Bandwidth Blocking Ratio = 32.81%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 44.44%, Bandwidth Blocking Ratio = 51.00%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 92.17%, Bandwidth Blocking Ratio = 92.57%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 9.88%, Bandwidth Blocking Ratio = 11.65%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 48.19%, Bandwidth Blocking Ratio = 52.83%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 80.61%, Bandwidth Blocking Ratio = 83.91%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 16.84%, Bandwidth Blocking Ratio = 19.83%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 27.66%, Bandwidth Blocking Ratio = 32.37%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 69.23%, Bandwidth Blocking Ratio = 72.27%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 61.96%, Bandwidth Blocking Ratio = 67.97%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 27.59%, Bandwidth Blocking Ratio = 32.00%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 38.55%, Bandwidth Blocking Ratio = 41.78%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 18.89%, Bandwidth Blocking Ratio = 21.24%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 26.53%, Bandwidth Blocking Ratio = 30.52%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 40.22%, Bandwidth Blocking Ratio = 44.84%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 35.96%, Bandwidth Blocking Ratio = 41.33%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 33.71%, Bandwidth Blocking Ratio = 38.81%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 27.71%, Bandwidth Blocking Ratio = 31.10%
+Jain's Fairness Index (JFI): 0.8178
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.4321
+Class 1 JFI: 0.8715
+Class 2 JFI: 0.5575
+
+*****
+Load:550.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 1067 (10.67%)
+Total Blocked: 7936 (79.36%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 103550000 (80.79%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 68.04%, Bandwidth Blocking Ratio = 68.04%
+Class 1: Blocking Probability = 84.08%, Bandwidth Blocking Ratio = 84.08%
+Class 2: Blocking Probability = 72.14%, Bandwidth Blocking Ratio = 72.14%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 38.27%, Bandwidth Blocking Ratio = 42.66%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 29.63%, Bandwidth Blocking Ratio = 32.37%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 48.48%, Bandwidth Blocking Ratio = 53.16%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 92.68%, Bandwidth Blocking Ratio = 92.72%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 43.96%, Bandwidth Blocking Ratio = 49.13%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 58.70%, Bandwidth Blocking Ratio = 63.33%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 32.94%, Bandwidth Blocking Ratio = 37.39%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 74.19%, Bandwidth Blocking Ratio = 77.55%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 57.89%, Bandwidth Blocking Ratio = 62.45%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 80.22%, Bandwidth Blocking Ratio = 81.74%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 26.53%, Bandwidth Blocking Ratio = 30.59%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 30.19%, Bandwidth Blocking Ratio = 34.55%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 79.12%, Bandwidth Blocking Ratio = 81.62%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 74.49%, Bandwidth Blocking Ratio = 77.99%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 97.03%, Bandwidth Blocking Ratio = 97.70%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 71.23%, Bandwidth Blocking Ratio = 73.91%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 26.04%, Bandwidth Blocking Ratio = 29.06%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 48.78%, Bandwidth Blocking Ratio = 54.63%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 50.54%, Bandwidth Blocking Ratio = 54.47%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 11.39%, Bandwidth Blocking Ratio = 13.24%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 11.36%, Bandwidth Blocking Ratio = 13.27%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 65.88%, Bandwidth Blocking Ratio = 68.40%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 55.13%, Bandwidth Blocking Ratio = 57.67%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 31.00%, Bandwidth Blocking Ratio = 35.91%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 61.29%, Bandwidth Blocking Ratio = 66.14%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 95.00%, Bandwidth Blocking Ratio = 95.33%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 29.47%, Bandwidth Blocking Ratio = 32.81%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 45.68%, Bandwidth Blocking Ratio = 52.00%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 60.00%, Bandwidth Blocking Ratio = 65.54%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 11.11%, Bandwidth Blocking Ratio = 13.11%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 57.83%, Bandwidth Blocking Ratio = 62.74%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 81.63%, Bandwidth Blocking Ratio = 84.29%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 24.21%, Bandwidth Blocking Ratio = 28.51%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 32.98%, Bandwidth Blocking Ratio = 38.17%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 71.43%, Bandwidth Blocking Ratio = 73.53%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 54.35%, Bandwidth Blocking Ratio = 58.87%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 24.14%, Bandwidth Blocking Ratio = 28.00%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 42.17%, Bandwidth Blocking Ratio = 46.01%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 17.78%, Bandwidth Blocking Ratio = 20.80%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 27.55%, Bandwidth Blocking Ratio = 30.92%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 41.30%, Bandwidth Blocking Ratio = 46.19%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 38.20%, Bandwidth Blocking Ratio = 43.56%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 28.09%, Bandwidth Blocking Ratio = 32.42%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 27.71%, Bandwidth Blocking Ratio = 30.14%
+Jain's Fairness Index (JFI): 0.8259
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.4603
+Class 1 JFI: 0.8787
+Class 2 JFI: 0.5530
+
+*****
+Load:600.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 1033 (10.33%)
+Total Blocked: 8002 (80.02%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 104350000 (81.42%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 68.68%, Bandwidth Blocking Ratio = 68.68%
+Class 1: Blocking Probability = 84.59%, Bandwidth Blocking Ratio = 84.59%
+Class 2: Blocking Probability = 73.10%, Bandwidth Blocking Ratio = 73.10%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 40.74%, Bandwidth Blocking Ratio = 45.41%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 19.75%, Bandwidth Blocking Ratio = 22.22%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 55.56%, Bandwidth Blocking Ratio = 60.59%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 81.71%, Bandwidth Blocking Ratio = 82.04%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 46.15%, Bandwidth Blocking Ratio = 50.00%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 54.35%, Bandwidth Blocking Ratio = 59.58%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 40.00%, Bandwidth Blocking Ratio = 45.05%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 68.82%, Bandwidth Blocking Ratio = 71.84%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 55.79%, Bandwidth Blocking Ratio = 59.92%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 80.22%, Bandwidth Blocking Ratio = 82.61%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 24.49%, Bandwidth Blocking Ratio = 28.24%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 29.25%, Bandwidth Blocking Ratio = 33.45%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 69.23%, Bandwidth Blocking Ratio = 71.37%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 79.59%, Bandwidth Blocking Ratio = 83.01%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 95.05%, Bandwidth Blocking Ratio = 95.79%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 54.79%, Bandwidth Blocking Ratio = 57.07%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 35.42%, Bandwidth Blocking Ratio = 37.61%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 58.54%, Bandwidth Blocking Ratio = 62.96%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 53.76%, Bandwidth Blocking Ratio = 57.32%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 16.46%, Bandwidth Blocking Ratio = 19.12%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 14.77%, Bandwidth Blocking Ratio = 17.26%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 54.12%, Bandwidth Blocking Ratio = 58.96%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 52.56%, Bandwidth Blocking Ratio = 55.56%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 30.00%, Bandwidth Blocking Ratio = 34.75%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 80.65%, Bandwidth Blocking Ratio = 83.67%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 95.00%, Bandwidth Blocking Ratio = 95.33%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 29.47%, Bandwidth Blocking Ratio = 32.81%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 48.15%, Bandwidth Blocking Ratio = 54.50%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 86.96%, Bandwidth Blocking Ratio = 88.51%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 8.64%, Bandwidth Blocking Ratio = 10.19%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 55.42%, Bandwidth Blocking Ratio = 59.91%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 85.71%, Bandwidth Blocking Ratio = 88.51%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 22.11%, Bandwidth Blocking Ratio = 26.03%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 32.98%, Bandwidth Blocking Ratio = 37.76%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 79.12%, Bandwidth Blocking Ratio = 81.51%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 67.39%, Bandwidth Blocking Ratio = 72.29%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 24.14%, Bandwidth Blocking Ratio = 28.00%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 33.73%, Bandwidth Blocking Ratio = 38.03%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 20.00%, Bandwidth Blocking Ratio = 22.57%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 32.65%, Bandwidth Blocking Ratio = 36.55%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 45.65%, Bandwidth Blocking Ratio = 51.12%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 40.45%, Bandwidth Blocking Ratio = 45.78%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 30.34%, Bandwidth Blocking Ratio = 34.25%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 37.35%, Bandwidth Blocking Ratio = 40.67%
+Jain's Fairness Index (JFI): 0.8334
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.4832
+Class 1 JFI: 0.8846
+Class 2 JFI: 0.5808
+
+*****
+Load:650.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 1026 (10.26%)
+Total Blocked: 8036 (80.36%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 104845000 (81.80%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 68.04%, Bandwidth Blocking Ratio = 68.04%
+Class 1: Blocking Probability = 85.02%, Bandwidth Blocking Ratio = 85.02%
+Class 2: Blocking Probability = 73.46%, Bandwidth Blocking Ratio = 73.46%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 38.27%, Bandwidth Blocking Ratio = 42.66%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 23.46%, Bandwidth Blocking Ratio = 26.09%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 63.64%, Bandwidth Blocking Ratio = 67.66%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 85.37%, Bandwidth Blocking Ratio = 85.44%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 39.56%, Bandwidth Blocking Ratio = 43.48%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 72.83%, Bandwidth Blocking Ratio = 77.08%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 43.53%, Bandwidth Blocking Ratio = 48.65%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 58.06%, Bandwidth Blocking Ratio = 62.45%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 55.79%, Bandwidth Blocking Ratio = 59.07%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 86.81%, Bandwidth Blocking Ratio = 87.83%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 28.57%, Bandwidth Blocking Ratio = 32.94%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 24.53%, Bandwidth Blocking Ratio = 28.36%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 76.92%, Bandwidth Blocking Ratio = 79.06%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 78.57%, Bandwidth Blocking Ratio = 82.24%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 97.03%, Bandwidth Blocking Ratio = 97.70%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 53.42%, Bandwidth Blocking Ratio = 57.07%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 36.46%, Bandwidth Blocking Ratio = 39.74%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 60.98%, Bandwidth Blocking Ratio = 66.67%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 68.82%, Bandwidth Blocking Ratio = 71.95%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 16.46%, Bandwidth Blocking Ratio = 19.12%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 14.77%, Bandwidth Blocking Ratio = 17.26%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 56.47%, Bandwidth Blocking Ratio = 61.32%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 58.97%, Bandwidth Blocking Ratio = 62.96%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 34.00%, Bandwidth Blocking Ratio = 39.00%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 72.04%, Bandwidth Blocking Ratio = 75.70%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 90.00%, Bandwidth Blocking Ratio = 90.66%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 30.53%, Bandwidth Blocking Ratio = 33.98%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 59.26%, Bandwidth Blocking Ratio = 66.00%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 73.04%, Bandwidth Blocking Ratio = 76.69%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 13.58%, Bandwidth Blocking Ratio = 16.02%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 56.63%, Bandwidth Blocking Ratio = 61.32%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 86.73%, Bandwidth Blocking Ratio = 88.12%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 26.32%, Bandwidth Blocking Ratio = 30.99%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 31.91%, Bandwidth Blocking Ratio = 37.34%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 69.23%, Bandwidth Blocking Ratio = 71.85%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 58.70%, Bandwidth Blocking Ratio = 61.90%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 28.74%, Bandwidth Blocking Ratio = 33.33%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 40.96%, Bandwidth Blocking Ratio = 45.54%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 31.11%, Bandwidth Blocking Ratio = 33.63%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 33.67%, Bandwidth Blocking Ratio = 38.55%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 39.13%, Bandwidth Blocking Ratio = 43.50%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 31.46%, Bandwidth Blocking Ratio = 36.00%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 33.71%, Bandwidth Blocking Ratio = 38.36%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 31.33%, Bandwidth Blocking Ratio = 33.97%
+Jain's Fairness Index (JFI): 0.8463
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.4413
+Class 1 JFI: 0.8951
+Class 2 JFI: 0.6067
+
+*****
+Load:700.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 1017 (10.17%)
+Total Blocked: 8082 (80.82%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 105470000 (82.29%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 68.68%, Bandwidth Blocking Ratio = 68.68%
+Class 1: Blocking Probability = 85.61%, Bandwidth Blocking Ratio = 85.61%
+Class 2: Blocking Probability = 73.62%, Bandwidth Blocking Ratio = 73.62%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 39.51%, Bandwidth Blocking Ratio = 44.04%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 40.74%, Bandwidth Blocking Ratio = 43.48%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 59.60%, Bandwidth Blocking Ratio = 63.94%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 90.24%, Bandwidth Blocking Ratio = 90.29%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 38.46%, Bandwidth Blocking Ratio = 43.48%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 60.87%, Bandwidth Blocking Ratio = 65.83%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 41.18%, Bandwidth Blocking Ratio = 45.95%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 56.99%, Bandwidth Blocking Ratio = 61.63%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 58.95%, Bandwidth Blocking Ratio = 62.45%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 81.32%, Bandwidth Blocking Ratio = 82.61%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 29.59%, Bandwidth Blocking Ratio = 34.12%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 34.91%, Bandwidth Blocking Ratio = 40.00%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 67.03%, Bandwidth Blocking Ratio = 69.66%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 73.47%, Bandwidth Blocking Ratio = 77.22%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 90.10%, Bandwidth Blocking Ratio = 91.19%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 47.95%, Bandwidth Blocking Ratio = 52.17%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 42.71%, Bandwidth Blocking Ratio = 46.15%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 56.10%, Bandwidth Blocking Ratio = 61.57%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 64.52%, Bandwidth Blocking Ratio = 67.07%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 16.46%, Bandwidth Blocking Ratio = 19.12%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 18.18%, Bandwidth Blocking Ratio = 20.80%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 67.06%, Bandwidth Blocking Ratio = 69.81%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 51.28%, Bandwidth Blocking Ratio = 54.50%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 31.00%, Bandwidth Blocking Ratio = 35.91%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 75.27%, Bandwidth Blocking Ratio = 78.88%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 93.00%, Bandwidth Blocking Ratio = 93.39%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 30.53%, Bandwidth Blocking Ratio = 33.98%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 56.79%, Bandwidth Blocking Ratio = 62.50%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 72.17%, Bandwidth Blocking Ratio = 76.01%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 13.58%, Bandwidth Blocking Ratio = 16.02%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 60.24%, Bandwidth Blocking Ratio = 63.21%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 85.71%, Bandwidth Blocking Ratio = 88.12%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 32.63%, Bandwidth Blocking Ratio = 37.60%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 43.62%, Bandwidth Blocking Ratio = 49.38%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 82.42%, Bandwidth Blocking Ratio = 84.87%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 65.22%, Bandwidth Blocking Ratio = 71.00%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 24.14%, Bandwidth Blocking Ratio = 28.00%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 43.37%, Bandwidth Blocking Ratio = 47.89%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 27.78%, Bandwidth Blocking Ratio = 30.53%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 33.67%, Bandwidth Blocking Ratio = 38.15%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 42.39%, Bandwidth Blocking Ratio = 47.53%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 42.70%, Bandwidth Blocking Ratio = 47.56%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 41.57%, Bandwidth Blocking Ratio = 46.58%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 37.35%, Bandwidth Blocking Ratio = 39.71%
+Jain's Fairness Index (JFI): 0.8633
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.4792
+Class 1 JFI: 0.9092
+Class 2 JFI: 0.6167
+
+*****
+Load:750.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 988 (9.88%)
+Total Blocked: 8106 (81.06%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 105680000 (82.45%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 68.84%, Bandwidth Blocking Ratio = 68.84%
+Class 1: Blocking Probability = 85.53%, Bandwidth Blocking Ratio = 85.53%
+Class 2: Blocking Probability = 74.52%, Bandwidth Blocking Ratio = 74.52%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 39.51%, Bandwidth Blocking Ratio = 44.04%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 33.33%, Bandwidth Blocking Ratio = 36.71%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 54.55%, Bandwidth Blocking Ratio = 59.11%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 79.27%, Bandwidth Blocking Ratio = 80.10%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 48.35%, Bandwidth Blocking Ratio = 52.61%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 63.04%, Bandwidth Blocking Ratio = 66.25%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 38.82%, Bandwidth Blocking Ratio = 43.69%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 70.97%, Bandwidth Blocking Ratio = 75.51%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 66.32%, Bandwidth Blocking Ratio = 70.46%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 92.31%, Bandwidth Blocking Ratio = 92.61%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 29.59%, Bandwidth Blocking Ratio = 34.12%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 36.79%, Bandwidth Blocking Ratio = 41.82%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 69.23%, Bandwidth Blocking Ratio = 71.79%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 89.80%, Bandwidth Blocking Ratio = 92.66%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 95.05%, Bandwidth Blocking Ratio = 95.79%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 63.01%, Bandwidth Blocking Ratio = 65.22%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 36.46%, Bandwidth Blocking Ratio = 40.60%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 59.76%, Bandwidth Blocking Ratio = 64.81%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 53.76%, Bandwidth Blocking Ratio = 57.72%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 15.19%, Bandwidth Blocking Ratio = 17.65%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 17.05%, Bandwidth Blocking Ratio = 19.47%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 62.35%, Bandwidth Blocking Ratio = 65.09%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 64.10%, Bandwidth Blocking Ratio = 67.20%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 32.00%, Bandwidth Blocking Ratio = 37.07%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 77.42%, Bandwidth Blocking Ratio = 80.08%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 94.00%, Bandwidth Blocking Ratio = 94.16%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 30.53%, Bandwidth Blocking Ratio = 33.98%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 55.56%, Bandwidth Blocking Ratio = 62.50%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 68.70%, Bandwidth Blocking Ratio = 70.95%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 9.88%, Bandwidth Blocking Ratio = 11.65%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 67.47%, Bandwidth Blocking Ratio = 72.17%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 88.78%, Bandwidth Blocking Ratio = 90.42%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 35.79%, Bandwidth Blocking Ratio = 40.50%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 26.60%, Bandwidth Blocking Ratio = 31.12%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 62.64%, Bandwidth Blocking Ratio = 65.55%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 70.65%, Bandwidth Blocking Ratio = 75.76%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 34.48%, Bandwidth Blocking Ratio = 39.11%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 25.30%, Bandwidth Blocking Ratio = 29.58%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 34.44%, Bandwidth Blocking Ratio = 37.61%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 26.53%, Bandwidth Blocking Ratio = 30.52%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 53.26%, Bandwidth Blocking Ratio = 59.19%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 44.94%, Bandwidth Blocking Ratio = 48.89%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 38.20%, Bandwidth Blocking Ratio = 42.47%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 33.73%, Bandwidth Blocking Ratio = 35.89%
+Jain's Fairness Index (JFI): 0.8558
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.4469
+Class 1 JFI: 0.9008
+Class 2 JFI: 0.6304
+
+*****
+Load:800.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 972 (9.72%)
+Total Blocked: 8162 (81.62%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 106400000 (83.01%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 70.11%, Bandwidth Blocking Ratio = 70.11%
+Class 1: Blocking Probability = 86.17%, Bandwidth Blocking Ratio = 86.17%
+Class 2: Blocking Probability = 74.77%, Bandwidth Blocking Ratio = 74.77%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 37.04%, Bandwidth Blocking Ratio = 41.28%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 39.51%, Bandwidth Blocking Ratio = 41.55%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 65.66%, Bandwidth Blocking Ratio = 69.52%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 92.68%, Bandwidth Blocking Ratio = 92.72%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 47.25%, Bandwidth Blocking Ratio = 52.17%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 60.87%, Bandwidth Blocking Ratio = 66.67%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 36.47%, Bandwidth Blocking Ratio = 41.44%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 66.67%, Bandwidth Blocking Ratio = 70.61%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 75.79%, Bandwidth Blocking Ratio = 76.79%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 86.81%, Bandwidth Blocking Ratio = 87.39%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 30.61%, Bandwidth Blocking Ratio = 35.29%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 29.25%, Bandwidth Blocking Ratio = 33.82%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 61.54%, Bandwidth Blocking Ratio = 65.38%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 87.76%, Bandwidth Blocking Ratio = 90.73%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 94.06%, Bandwidth Blocking Ratio = 95.40%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 53.42%, Bandwidth Blocking Ratio = 56.52%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 42.71%, Bandwidth Blocking Ratio = 45.73%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 64.63%, Bandwidth Blocking Ratio = 68.98%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 72.04%, Bandwidth Blocking Ratio = 74.80%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 17.72%, Bandwidth Blocking Ratio = 20.59%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 15.91%, Bandwidth Blocking Ratio = 18.58%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 54.12%, Bandwidth Blocking Ratio = 58.02%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 55.13%, Bandwidth Blocking Ratio = 57.67%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 31.00%, Bandwidth Blocking Ratio = 35.91%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 73.12%, Bandwidth Blocking Ratio = 76.89%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 95.00%, Bandwidth Blocking Ratio = 95.33%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 32.63%, Bandwidth Blocking Ratio = 36.33%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 59.26%, Bandwidth Blocking Ratio = 66.50%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 74.78%, Bandwidth Blocking Ratio = 77.70%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 14.81%, Bandwidth Blocking Ratio = 17.48%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 67.47%, Bandwidth Blocking Ratio = 72.64%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 78.57%, Bandwidth Blocking Ratio = 81.99%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 29.47%, Bandwidth Blocking Ratio = 33.88%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 30.85%, Bandwidth Blocking Ratio = 35.68%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 81.32%, Bandwidth Blocking Ratio = 83.61%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 75.00%, Bandwidth Blocking Ratio = 77.06%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 27.59%, Bandwidth Blocking Ratio = 32.00%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 42.17%, Bandwidth Blocking Ratio = 46.95%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 28.89%, Bandwidth Blocking Ratio = 32.74%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 47.96%, Bandwidth Blocking Ratio = 51.81%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 50.00%, Bandwidth Blocking Ratio = 53.81%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 44.94%, Bandwidth Blocking Ratio = 50.22%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 46.07%, Bandwidth Blocking Ratio = 50.68%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 30.12%, Bandwidth Blocking Ratio = 32.06%
+Jain's Fairness Index (JFI): 0.8643
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.5139
+Class 1 JFI: 0.9083
+Class 2 JFI: 0.6307
+
+*****
+Load:850.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 969 (9.69%)
+Total Blocked: 8196 (81.96%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 106990000 (83.48%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 67.09%, Bandwidth Blocking Ratio = 67.09%
+Class 1: Blocking Probability = 86.67%, Bandwidth Blocking Ratio = 86.67%
+Class 2: Blocking Probability = 75.48%, Bandwidth Blocking Ratio = 75.48%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 39.51%, Bandwidth Blocking Ratio = 44.04%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 39.51%, Bandwidth Blocking Ratio = 42.51%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 58.59%, Bandwidth Blocking Ratio = 62.83%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 86.59%, Bandwidth Blocking Ratio = 87.86%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 50.55%, Bandwidth Blocking Ratio = 55.22%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 64.13%, Bandwidth Blocking Ratio = 69.17%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 44.71%, Bandwidth Blocking Ratio = 50.00%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 67.74%, Bandwidth Blocking Ratio = 71.84%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 67.37%, Bandwidth Blocking Ratio = 71.73%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 86.81%, Bandwidth Blocking Ratio = 87.39%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 26.53%, Bandwidth Blocking Ratio = 30.59%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 33.96%, Bandwidth Blocking Ratio = 38.55%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 80.22%, Bandwidth Blocking Ratio = 82.91%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 85.71%, Bandwidth Blocking Ratio = 88.42%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 97.03%, Bandwidth Blocking Ratio = 97.70%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 58.90%, Bandwidth Blocking Ratio = 62.50%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 39.58%, Bandwidth Blocking Ratio = 42.31%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 64.63%, Bandwidth Blocking Ratio = 68.98%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 74.19%, Bandwidth Blocking Ratio = 76.02%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 16.46%, Bandwidth Blocking Ratio = 19.12%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 22.73%, Bandwidth Blocking Ratio = 25.66%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 63.53%, Bandwidth Blocking Ratio = 69.34%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 51.28%, Bandwidth Blocking Ratio = 53.44%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 40.00%, Bandwidth Blocking Ratio = 45.56%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 66.67%, Bandwidth Blocking Ratio = 70.52%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 94.00%, Bandwidth Blocking Ratio = 94.16%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 31.58%, Bandwidth Blocking Ratio = 35.16%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 62.96%, Bandwidth Blocking Ratio = 70.00%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 69.57%, Bandwidth Blocking Ratio = 74.66%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 14.81%, Bandwidth Blocking Ratio = 17.48%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 72.29%, Bandwidth Blocking Ratio = 75.94%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 84.69%, Bandwidth Blocking Ratio = 87.74%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 36.84%, Bandwidth Blocking Ratio = 41.32%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 34.04%, Bandwidth Blocking Ratio = 39.83%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 73.63%, Bandwidth Blocking Ratio = 76.05%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 70.65%, Bandwidth Blocking Ratio = 75.32%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 33.33%, Bandwidth Blocking Ratio = 38.22%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 36.14%, Bandwidth Blocking Ratio = 41.78%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 32.22%, Bandwidth Blocking Ratio = 35.84%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 40.82%, Bandwidth Blocking Ratio = 46.59%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 47.83%, Bandwidth Blocking Ratio = 52.91%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 46.07%, Bandwidth Blocking Ratio = 51.11%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 46.07%, Bandwidth Blocking Ratio = 50.68%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 34.94%, Bandwidth Blocking Ratio = 37.80%
+Jain's Fairness Index (JFI): 0.8762
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.4563
+Class 1 JFI: 0.9190
+Class 2 JFI: 0.6531
+
+*****
+Load:900.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 945 (9.45%)
+Total Blocked: 8227 (82.27%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 107305000 (83.72%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 68.04%, Bandwidth Blocking Ratio = 68.04%
+Class 1: Blocking Probability = 86.78%, Bandwidth Blocking Ratio = 86.78%
+Class 2: Blocking Probability = 76.06%, Bandwidth Blocking Ratio = 76.06%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 38.27%, Bandwidth Blocking Ratio = 42.66%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 39.51%, Bandwidth Blocking Ratio = 43.00%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 57.58%, Bandwidth Blocking Ratio = 62.08%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 82.93%, Bandwidth Blocking Ratio = 84.47%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 48.35%, Bandwidth Blocking Ratio = 52.61%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 72.83%, Bandwidth Blocking Ratio = 75.83%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 43.53%, Bandwidth Blocking Ratio = 49.10%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 74.19%, Bandwidth Blocking Ratio = 78.37%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 67.37%, Bandwidth Blocking Ratio = 71.31%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 94.51%, Bandwidth Blocking Ratio = 95.22%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 29.59%, Bandwidth Blocking Ratio = 34.12%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 33.96%, Bandwidth Blocking Ratio = 38.91%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 84.62%, Bandwidth Blocking Ratio = 86.32%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 85.71%, Bandwidth Blocking Ratio = 88.80%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 93.07%, Bandwidth Blocking Ratio = 95.40%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 53.42%, Bandwidth Blocking Ratio = 57.07%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 44.79%, Bandwidth Blocking Ratio = 48.72%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 62.20%, Bandwidth Blocking Ratio = 67.59%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 75.27%, Bandwidth Blocking Ratio = 77.64%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 15.19%, Bandwidth Blocking Ratio = 17.65%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 17.05%, Bandwidth Blocking Ratio = 19.47%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 69.41%, Bandwidth Blocking Ratio = 72.17%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 58.97%, Bandwidth Blocking Ratio = 61.38%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 40.00%, Bandwidth Blocking Ratio = 45.95%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 67.74%, Bandwidth Blocking Ratio = 71.71%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 96.00%, Bandwidth Blocking Ratio = 96.11%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 33.68%, Bandwidth Blocking Ratio = 37.50%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 56.79%, Bandwidth Blocking Ratio = 63.00%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 66.09%, Bandwidth Blocking Ratio = 70.27%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 14.81%, Bandwidth Blocking Ratio = 17.48%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 75.90%, Bandwidth Blocking Ratio = 78.30%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 86.73%, Bandwidth Blocking Ratio = 89.66%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 41.05%, Bandwidth Blocking Ratio = 45.87%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 29.79%, Bandwidth Blocking Ratio = 34.44%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 75.82%, Bandwidth Blocking Ratio = 77.31%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 59.78%, Bandwidth Blocking Ratio = 65.37%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 35.63%, Bandwidth Blocking Ratio = 40.00%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 43.37%, Bandwidth Blocking Ratio = 48.83%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 31.11%, Bandwidth Blocking Ratio = 34.07%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 51.02%, Bandwidth Blocking Ratio = 55.42%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 56.52%, Bandwidth Blocking Ratio = 61.43%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 48.31%, Bandwidth Blocking Ratio = 53.33%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 32.58%, Bandwidth Blocking Ratio = 36.53%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 37.35%, Bandwidth Blocking Ratio = 39.71%
+Jain's Fairness Index (JFI): 0.8759
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.4946
+Class 1 JFI: 0.9171
+Class 2 JFI: 0.6596
+
+*****
+Load:950.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 920 (9.20%)
+Total Blocked: 8300 (83.00%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 108240000 (84.45%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 69.16%, Bandwidth Blocking Ratio = 69.16%
+Class 1: Blocking Probability = 87.55%, Bandwidth Blocking Ratio = 87.55%
+Class 2: Blocking Probability = 76.64%, Bandwidth Blocking Ratio = 76.64%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 39.51%, Bandwidth Blocking Ratio = 44.04%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 54.32%, Bandwidth Blocking Ratio = 57.49%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 60.61%, Bandwidth Blocking Ratio = 65.06%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 92.68%, Bandwidth Blocking Ratio = 92.72%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 48.35%, Bandwidth Blocking Ratio = 51.74%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 68.48%, Bandwidth Blocking Ratio = 72.92%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 51.76%, Bandwidth Blocking Ratio = 56.76%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 79.57%, Bandwidth Blocking Ratio = 82.45%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 73.68%, Bandwidth Blocking Ratio = 77.64%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 95.60%, Bandwidth Blocking Ratio = 95.65%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 28.57%, Bandwidth Blocking Ratio = 32.94%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 44.34%, Bandwidth Blocking Ratio = 49.09%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 81.32%, Bandwidth Blocking Ratio = 83.33%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 88.78%, Bandwidth Blocking Ratio = 91.12%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 97.03%, Bandwidth Blocking Ratio = 97.70%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 53.42%, Bandwidth Blocking Ratio = 57.07%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 41.67%, Bandwidth Blocking Ratio = 45.30%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 62.20%, Bandwidth Blocking Ratio = 67.59%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 78.49%, Bandwidth Blocking Ratio = 80.89%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 20.25%, Bandwidth Blocking Ratio = 23.53%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 27.27%, Bandwidth Blocking Ratio = 30.53%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 58.82%, Bandwidth Blocking Ratio = 62.26%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 60.26%, Bandwidth Blocking Ratio = 60.32%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 38.00%, Bandwidth Blocking Ratio = 43.24%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 74.19%, Bandwidth Blocking Ratio = 77.69%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 94.00%, Bandwidth Blocking Ratio = 94.16%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 31.58%, Bandwidth Blocking Ratio = 35.16%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 62.96%, Bandwidth Blocking Ratio = 70.50%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 75.65%, Bandwidth Blocking Ratio = 77.70%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 20.99%, Bandwidth Blocking Ratio = 24.76%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 65.06%, Bandwidth Blocking Ratio = 70.75%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 87.76%, Bandwidth Blocking Ratio = 90.04%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 32.63%, Bandwidth Blocking Ratio = 37.60%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 37.23%, Bandwidth Blocking Ratio = 42.74%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 73.63%, Bandwidth Blocking Ratio = 76.05%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 71.74%, Bandwidth Blocking Ratio = 77.06%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 43.68%, Bandwidth Blocking Ratio = 48.00%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 40.96%, Bandwidth Blocking Ratio = 46.48%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 31.11%, Bandwidth Blocking Ratio = 34.07%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 38.78%, Bandwidth Blocking Ratio = 44.58%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 52.17%, Bandwidth Blocking Ratio = 57.40%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 40.45%, Bandwidth Blocking Ratio = 44.89%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 48.31%, Bandwidth Blocking Ratio = 53.88%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 34.94%, Bandwidth Blocking Ratio = 38.28%
+Jain's Fairness Index (JFI): 0.8880
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.4931
+Class 1 JFI: 0.9289
+Class 2 JFI: 0.6803
+
+*****
+Load:1000.0
+Summary Statistics:
+===================
+Total Arrivals: 10000
+Total Accepted: 897 (8.97%)
+Total Blocked: 8343 (83.43%)
+Required Bandwidth: 128170000
+Blocked Bandwidth: 108740000 (84.84%)
+
+Class-specific Blocking and Bandwidth Blocking Ratio:
+====================================================
+Class 0: Blocking Probability = 70.11%, Bandwidth Blocking Ratio = 70.11%
+Class 1: Blocking Probability = 87.87%, Bandwidth Blocking Ratio = 87.87%
+Class 2: Blocking Probability = 77.19%, Bandwidth Blocking Ratio = 77.19%
+
+Pairwise Blocking and Bandwidth Blocking Ratio:
+===============================================
+Pair (0 -> 1): Arrivals = 81, Blocking Probability = 43.21%, Bandwidth Blocking Ratio = 48.17%
+Pair (0 -> 2): Arrivals = 81, Blocking Probability = 50.62%, Bandwidth Blocking Ratio = 55.07%
+Pair (0 -> 3): Arrivals = 99, Blocking Probability = 59.60%, Bandwidth Blocking Ratio = 63.94%
+Pair (0 -> 4): Arrivals = 82, Blocking Probability = 92.68%, Bandwidth Blocking Ratio = 92.72%
+Pair (0 -> 5): Arrivals = 91, Blocking Probability = 47.25%, Bandwidth Blocking Ratio = 51.30%
+Pair (0 -> 6): Arrivals = 92, Blocking Probability = 72.83%, Bandwidth Blocking Ratio = 76.67%
+Pair (0 -> 7): Arrivals = 85, Blocking Probability = 45.88%, Bandwidth Blocking Ratio = 50.45%
+Pair (0 -> 8): Arrivals = 93, Blocking Probability = 75.27%, Bandwidth Blocking Ratio = 79.59%
+Pair (0 -> 9): Arrivals = 95, Blocking Probability = 66.32%, Bandwidth Blocking Ratio = 70.04%
+Pair (0 -> 10): Arrivals = 91, Blocking Probability = 90.11%, Bandwidth Blocking Ratio = 91.74%
+Pair (1 -> 2): Arrivals = 98, Blocking Probability = 28.57%, Bandwidth Blocking Ratio = 32.94%
+Pair (1 -> 3): Arrivals = 106, Blocking Probability = 37.74%, Bandwidth Blocking Ratio = 42.18%
+Pair (1 -> 4): Arrivals = 91, Blocking Probability = 79.12%, Bandwidth Blocking Ratio = 80.34%
+Pair (1 -> 5): Arrivals = 98, Blocking Probability = 88.78%, Bandwidth Blocking Ratio = 91.12%
+Pair (1 -> 6): Arrivals = 101, Blocking Probability = 97.03%, Bandwidth Blocking Ratio = 97.70%
+Pair (1 -> 7): Arrivals = 73, Blocking Probability = 53.42%, Bandwidth Blocking Ratio = 58.70%
+Pair (1 -> 8): Arrivals = 96, Blocking Probability = 64.58%, Bandwidth Blocking Ratio = 68.38%
+Pair (1 -> 9): Arrivals = 82, Blocking Probability = 65.85%, Bandwidth Blocking Ratio = 70.37%
+Pair (1 -> 10): Arrivals = 93, Blocking Probability = 76.34%, Bandwidth Blocking Ratio = 78.86%
+Pair (2 -> 3): Arrivals = 82, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 4): Arrivals = 101, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 5): Arrivals = 86, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 6): Arrivals = 83, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (2 -> 7): Arrivals = 79, Blocking Probability = 20.25%, Bandwidth Blocking Ratio = 23.53%
+Pair (2 -> 8): Arrivals = 88, Blocking Probability = 20.45%, Bandwidth Blocking Ratio = 23.45%
+Pair (2 -> 9): Arrivals = 85, Blocking Probability = 65.88%, Bandwidth Blocking Ratio = 69.34%
+Pair (2 -> 10): Arrivals = 78, Blocking Probability = 64.10%, Bandwidth Blocking Ratio = 62.96%
+Pair (3 -> 4): Arrivals = 100, Blocking Probability = 40.00%, Bandwidth Blocking Ratio = 45.17%
+Pair (3 -> 5): Arrivals = 93, Blocking Probability = 78.49%, Bandwidth Blocking Ratio = 81.67%
+Pair (3 -> 6): Arrivals = 100, Blocking Probability = 96.00%, Bandwidth Blocking Ratio = 96.11%
+Pair (3 -> 7): Arrivals = 90, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (3 -> 8): Arrivals = 95, Blocking Probability = 33.68%, Bandwidth Blocking Ratio = 37.50%
+Pair (3 -> 9): Arrivals = 81, Blocking Probability = 61.73%, Bandwidth Blocking Ratio = 68.50%
+Pair (3 -> 10): Arrivals = 115, Blocking Probability = 69.57%, Bandwidth Blocking Ratio = 74.32%
+Pair (4 -> 5): Arrivals = 81, Blocking Probability = 13.58%, Bandwidth Blocking Ratio = 16.02%
+Pair (4 -> 6): Arrivals = 83, Blocking Probability = 77.11%, Bandwidth Blocking Ratio = 79.72%
+Pair (4 -> 7): Arrivals = 80, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 8): Arrivals = 95, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (4 -> 9): Arrivals = 98, Blocking Probability = 83.67%, Bandwidth Blocking Ratio = 85.06%
+Pair (4 -> 10): Arrivals = 95, Blocking Probability = 41.05%, Bandwidth Blocking Ratio = 46.28%
+Pair (5 -> 6): Arrivals = 94, Blocking Probability = 36.17%, Bandwidth Blocking Ratio = 41.49%
+Pair (5 -> 7): Arrivals = 97, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 8): Arrivals = 109, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (5 -> 9): Arrivals = 91, Blocking Probability = 73.63%, Bandwidth Blocking Ratio = 76.05%
+Pair (5 -> 10): Arrivals = 92, Blocking Probability = 79.35%, Bandwidth Blocking Ratio = 82.68%
+Pair (6 -> 7): Arrivals = 107, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 8): Arrivals = 103, Blocking Probability = 100.00%, Bandwidth Blocking Ratio = 100.00%
+Pair (6 -> 9): Arrivals = 87, Blocking Probability = 39.08%, Bandwidth Blocking Ratio = 44.00%
+Pair (6 -> 10): Arrivals = 83, Blocking Probability = 54.22%, Bandwidth Blocking Ratio = 59.15%
+Pair (7 -> 8): Arrivals = 90, Blocking Probability = 34.44%, Bandwidth Blocking Ratio = 38.50%
+Pair (7 -> 9): Arrivals = 98, Blocking Probability = 43.88%, Bandwidth Blocking Ratio = 49.00%
+Pair (7 -> 10): Arrivals = 92, Blocking Probability = 50.00%, Bandwidth Blocking Ratio = 53.81%
+Pair (8 -> 9): Arrivals = 89, Blocking Probability = 43.82%, Bandwidth Blocking Ratio = 48.44%
+Pair (8 -> 10): Arrivals = 89, Blocking Probability = 51.69%, Bandwidth Blocking Ratio = 57.08%
+Pair (9 -> 10): Arrivals = 83, Blocking Probability = 46.99%, Bandwidth Blocking Ratio = 50.72%
+Jain's Fairness Index (JFI): 0.8939
+
+Class-specific Jain's Fairness Index (JFI):
+===========================================
+Class 0 JFI: 0.4976
+Class 1 JFI: 0.9304
+Class 2 JFI: 0.6999
+
